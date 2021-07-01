@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/04 10:11:12.000.931,=C:\Users\cce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/25 09:11:31.000.996,=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/12 22:00:06.000.843,=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/23 19:28:06.000.751,=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/06 12:51:02.000.862,=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/28 08:36:50.000.455,=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 22:20:29.000.568,=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 22:24:11.219,=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 22:33:12.258,C:\Users\Jairo\Desktop\Softplan\uPrincipal.pas=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 22:33:12.258,C:\Users\Jairo\Desktop\Softplan\uPrincipal.dfm=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/06/26 22:33:23.336,C:\Users\Jairo\Desktop\Softplan\PTarefas.dproj=C:\Users\Jairo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Phone"/>
+	</ActiveMobileDevice>
+</BorlandProject>
